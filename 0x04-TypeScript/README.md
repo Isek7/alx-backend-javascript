@@ -3,6 +3,7 @@
 ![](https://res.cloudinary.com/de4rvmslk/image/upload/w_1600/f_auto,q_auto/Javascript_vs_typescript_key_differences.png)
 
 This project contains tasks for learning to use TypeScript.
+`npm run start-dev` Runs webpack-dev-server –open at port 8081 browser while `npm run build` Compile the code @Webpack configuration 
 
 ## Tasks To Complete
 
