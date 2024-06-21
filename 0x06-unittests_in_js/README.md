@@ -1,4 +1,5 @@
-# Unittests in JS
+# `Unittests_in_js`
+![](https://buildwithangga.com/storage/assets/thumbnail_tips/dJhRJED4GAeEOdmUOLMjvN2L6r2GhEmO97qDzI0B.png)
 
 This project contains tasks for learning to create unittests in NodeJS.
 
@@ -393,4 +394,4 @@ This project contains tasks for learning to create unittests in NodeJS.
     ## :pencil: **Author**
 ### :man: Ben Gabriel Isek
 - [Github](https://github.com/Isek7)
-- [Linkedin](https://www.linkedin.com/in/gabriel-ben-811552176/)
+- [Linkedin](https://www.linkedin.com/in/ben-gabriel-isek-811552176/)
